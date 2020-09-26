@@ -95,7 +95,6 @@ erismi2b2qa.partners.org
 eris-portalprod.dipr.partners.org
 eris-win10t
 eris-www
-eRoom
 facesheet.dipr.partners.org
 fmpro4.partners.org
 fmpro5a.partners.org
@@ -136,6 +135,7 @@ iiic.dipr.partners.org
 IndicationsRx
 itam.dipr.partners.org
 keycloak-biobank-dev.dipr.partners.org
+kmmv.partners.org
 labguru
 lamp-srvr
 lava
