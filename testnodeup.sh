@@ -1,6 +1,7 @@
 #!/bin/bash
 #
-#
+# Just adding another comment
+# and another
 
 #for node in `cat  /home/ky593/ansible/inventories/prodpatching.txt`
 po=".partners.org"
